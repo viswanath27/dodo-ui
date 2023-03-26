@@ -35,4 +35,12 @@ Additionally, OpenAI allows users to create multiple API keys and manage access 
 
 OpenAI also provides documentation and best practices for securely managing API keys and protecting sensitive data. This includes recommendations for encrypting API keys and using secure connections when making API requests.
 
-Overall, OpenAI's authentication and access control system provides a robust and flexible way for organizations to control access to their models and data, ensuring that only authorized users are able to access and utilize them.
+Overall, OpenAI's authentication and access control system provides a robust and flexible way for organizations to control access to their models and data, ensuring that only authorized users are able to access and utilize them.auth
+
+OpenAI API keys are 32-character alphanumeric strings that are used to authenticate requests to OpenAI's API endpoints. They typically look something like this:
+
+sk_0123456789abcdefghijklmnopqrstuvwxyz
+
+Note that this is just an example key, and real OpenAI API keys will have a different combination of letters and numbers.
+
+To use an OpenAI API, you must first sign up for an account with OpenAI and generate an API key. This key will be unique to your account and can be used to authenticate requests to OpenAI's API endpoints. You can manage your API keys and view usage statistics through the OpenAI Dashboard.
