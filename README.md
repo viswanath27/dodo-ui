@@ -115,3 +115,16 @@ For more information on OpenAI's compliance with data protection regulations and
 - [OpenAI's Compliance with HIPAA](https://openai.com/blog/openai-and-hipaa/)
 - [OpenAI's SOC 2 Report](https://openai.com/blog/openai-achieves-soc-2-certification/)
 - [OpenAI's Security Audit Report](https://openai.com/blog/openai-passes-independent-security-audit/) (requires signing an NDA)
+
+
+# Code-davinci-002 model compared to other GPT models
+
+Code-davinci-002 is a GPT (Generative Pre-trained Transformer) model developed by OpenAI that is specifically designed for code generation tasks. This model is one of the largest and most powerful language models available for generating code.
+
+Compared to other GPT models, such as GPT-2 and GPT-3, which are designed for general language tasks, Code-davinci-002 is optimized for code-related tasks. This means that it has been trained on a large corpus of programming code and can generate code that is syntactically correct and follows coding conventions.
+
+Code-davinci-002 is also a much larger model than its predecessors, with 175 billion parameters. This is significantly more than GPT-3, which has 175 billion parameters. This makes Code-davinci-002 much more powerful and capable of generating more complex and sophisticated code.
+
+In addition to its size and specialization for code generation tasks, Code-davinci-002 also incorporates other advanced features, such as improved attention mechanisms and better memory management. This allows the model to generate code that is both more accurate and more efficient.
+
+Overall, Code-davinci-002 is a state-of-the-art model for code generation tasks and represents a significant advance over previous GPT models. Its large size, specialization for code-related tasks, and advanced features make it one of the most powerful language models available for generating code.
