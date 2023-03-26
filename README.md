@@ -128,3 +128,16 @@ Code-davinci-002 is also a much larger model than its predecessors, with 175 bil
 In addition to its size and specialization for code generation tasks, Code-davinci-002 also incorporates other advanced features, such as improved attention mechanisms and better memory management. This allows the model to generate code that is both more accurate and more efficient.
 
 Overall, Code-davinci-002 is a state-of-the-art model for code generation tasks and represents a significant advance over previous GPT models. Its large size, specialization for code-related tasks, and advanced features make it one of the most powerful language models available for generating code.
+
+
+# Text-Ada-001 model
+
+Text-Ada-001 is a language model developed by OpenAI that uses the same architecture as the GPT family of models, but with a new training method called "Adaptive Prompting". This method allows the model to dynamically adjust its prompts based on the input it receives during inference.
+
+The goal of this approach is to improve the model's performance on specific tasks by allowing it to adapt its prompts to the particular context of each input sequence. This is intended to help the model generate more accurate and relevant output, especially in situations where the input data is complex or ambiguous.
+
+Text-Ada-001 has been trained on a large corpus of text data, including both general language text and domain-specific text in areas like science and technology. This training data has allowed the model to learn a wide range of language patterns and concepts, and to generate high-quality text in a variety of styles and contexts.
+
+In addition to its advanced training method and large corpus of training data, Text-Ada-001 also includes a number of other advanced features, such as a more efficient attention mechanism and improved memory management. These features help the model generate high-quality text more quickly and accurately, making it a powerful tool for a wide range of natural language processing tasks.
+
+Overall, Text-Ada-001 represents a significant advance in language modeling technology, combining advanced training techniques with a range of advanced features to create a model that is highly effective at generating high-quality text.
