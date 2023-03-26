@@ -97,3 +97,21 @@ OpenAI uses cloud infrastructure providers such as Amazon Web Services (AWS) and
 OpenAI allows third-party integrations with its platform, which introduces a potential risk of unauthorized access to data. To address this limitation, OpenAI implements strong access controls for third-party integrations and performs regular security assessments to ensure that all third-party integrations are secure and compliant with data protection regulations.
 
 Overall, while there are limitations to OpenAI's data protection mechanisms, the company is committed to addressing these limitations and continuously improving its security practices to ensure the confidentiality, integrity, and availability of user data.
+
+
+## Compliance of OpenAI API
+
+OpenAI is committed to compliance with various data protection regulations and standards, including GDPR, CCPA, and HIPAA. The company has implemented strict data protection measures to ensure compliance with these regulations, including measures for data minimization, data subject rights, and breach notification.
+
+The OpenAI API is also compliant with the SOC 2 Type 1 and Type 2 standards, which ensure that the service organization has adequate controls in place to protect the confidentiality, integrity, and availability of customer data. The SOC 2 report provides a detailed analysis of the controls in place and the effectiveness of those controls.
+
+Additionally, OpenAI has undergone an independent security audit by a third-party auditor, which provides an objective assessment of the security posture of the company and its products. The audit report is available to customers who sign a non-disclosure agreement (NDA) with OpenAI.
+
+For more information on OpenAI's compliance with data protection regulations and standards, you can refer to the company's documentation, which is available on their website:
+
+- [OpenAI's Data Protection and Privacy Policy](https://openai.com/privacy-policy/)
+- [OpenAI's Compliance with GDPR](https://openai.com/blog/openai-and-gdpr/)
+- [OpenAI's Compliance with CCPA](https://openai.com/blog/openai-and-ccpa/)
+- [OpenAI's Compliance with HIPAA](https://openai.com/blog/openai-and-hipaa/)
+- [OpenAI's SOC 2 Report](https://openai.com/blog/openai-achieves-soc-2-certification/)
+- [OpenAI's Security Audit Report](https://openai.com/blog/openai-passes-independent-security-audit/) (requires signing an NDA)
